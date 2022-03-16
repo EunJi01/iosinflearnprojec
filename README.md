@@ -6,7 +6,7 @@
 | **1회** | Data Types | Complete |  |  | **2022.03.06** |
 | **2회** | Variable | Complete |  |  | **2022.03.14** |
 | **3회** | Enumeration | Complete |  |  | **2022.03.15** |
-| **4회** |  | Complete |  |  | **2022.03.** |
+| **4회** | Condition | Complete |  |  | **2022.03.17** |
 | **5회** |  | Complete |  |  | **2022.03.** |
 | **6회** |  | Complete |  |  | **2022.03.** |
 | **7회** |  | Complete |  |  | **2022.03.** |
