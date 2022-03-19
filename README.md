@@ -8,7 +8,7 @@
 | **3회** | Enumeration | Complete |  |  | **2022.03.15** |
 | **4회** | Condition | Complete |  |  | **2022.03.17** |
 | **5회** | Loop | Complete |  |  | **2022.03.18** |
-| **6회** |  | Complete |  |  | **2022.03.** |
+| **6회** | Array | Complete |  |  | **2022.03.19** |
 | **7회** |  | Complete |  |  | **2022.03.** |
 
 
