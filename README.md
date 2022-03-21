@@ -9,8 +9,8 @@
 | **4회** | Condition | Complete |  |  | **2022.03.17** |
 | **5회** | Loop | Complete |  |  | **2022.03.18** |
 | **6회** | Array | Complete |  |  | **2022.03.19** |
-| **7회** | Dictionary | Complete |  |  | **2022.03.** |
-| **8회** |  | Complete |  |  | **2022.03.** |
+| **7회** | Dictionary | Complete |  |  | **2022.20.** |
+| **8회** | Function | Complete |  |  | **2022.03.21** |
 | **9회** |  | Complete |  |  | **2022.03.** |
 | **10회** |  | Complete |  |  | **2022.03.** |
 | **11회** |  | Complete |  |  | **2022.03.** |
