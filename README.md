@@ -15,7 +15,9 @@
 | **10회** | inout | Complete |  |  | **2022.03.23** |
 | **11회** | Class | Complete |  |  | **2022.03.24** |
 | **12회** | Inheritance | Complete |  |  | **2022.03.25** |
-| **13회** |  | Complete |  |  | **2022.03.** |
+| **13회** | Comparing Classes, Structures | Complete |  |  | **2022.03.26** |
+| **14회** |  | Complete |  |  | **2022.03.27** |
+| **15회** |  | Complete |  |  | **2022.03.28** |
 
 
 </br>
