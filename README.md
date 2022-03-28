@@ -16,8 +16,8 @@
 | **11회** | Class | Complete |  |  | **2022.03.24** |
 | **12회** | Inheritance | Complete |  |  | **2022.03.25** |
 | **13회** | Comparing Classes, Structures | Complete |  |  | **2022.03.26** |
-| **14회** |  | Complete |  |  | **2022.03.27** |
-| **15회** |  | Complete |  |  | **2022.03.28** |
+| **14회** | MyDream | Complete |  |  | **2022.03.28** |
+| **15회** |  | Complete |  |  | **2022.03.29** |
 
 
 </br>
