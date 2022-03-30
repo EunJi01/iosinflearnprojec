@@ -17,7 +17,7 @@
 | **12회** | Inheritance | Complete |  |  | **2022.03.25** |
 | **13회** | Comparing Classes, Structures | Complete |  |  | **2022.03.26** |
 | **14회** | MyDream | Complete |  |  | **2022.03.28** |
-| **15회** |  | Complete |  |  | **2022.03.29** |
+| **15회** | Flashlight | Complete |  |  | **2022.03.30** |
 
 
 </br>
