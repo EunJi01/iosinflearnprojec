@@ -16,8 +16,8 @@
 | **11회** | Class | Complete |  |  | **2022.03.24** |
 | **12회** | Inheritance | Complete |  |  | **2022.03.25** |
 | **13회** | Comparing Classes, Structures | Complete |  |  | **2022.03.26** |
-| **14회** | MyDream 앱 개발 | Complete |  |  | **2022.03.28** |
-| **15회** | Flashlight 앱 개발 | Complete |  |  | **2022.03.30** |
+| **14회** | MyDream app 구현 | Complete |  |  | **2022.03.28** |
+| **15회** | Flashlight app 구현 | Complete |  |  | **2022.03.30** |
 
 
 </br>
