@@ -22,11 +22,10 @@
 </br>
 </br>
 
-**Flashlight** 
+## **Flashlight App** 
 
-➡️    
-➡️    
-➡️    
+➡️ on/off 버튼으로 아이폰의 Flashlight를 끄거나 켤 수 있음   
+➡️ App의 Flashlight on/off 여부에 따라 배경 이미지 변화   
 
 📲 실행 화면
 </br>
