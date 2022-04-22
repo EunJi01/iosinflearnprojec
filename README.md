@@ -26,6 +26,7 @@
 
 ➡️ on/off 버튼으로 아이폰의 Flashlight를 끄거나 켤 수 있음   
 ➡️ App의 Flashlight on/off 여부에 따라 배경 이미지 변화   
+➡️ on/off 버튼을 조작할 때 소리 재생  
 
 📲 실행 화면
 </br>
